@@ -65,3 +65,14 @@ The objective is to analyze human movement data and explore different Machine Le
 UCI Machine Learning Repository:
 
 https://archive.ics.uci.edu/dataset/24/human+activity+recognition+using+smartphones
+
+# Author
+
+**Hamdane Salsabil & Benaissa Roumeissa**
+
+Master 1 – SDIA
+
+2025 / 2026
+
+**Team Project**
+
